@@ -1,5 +1,5 @@
-# Curso Digital: Git/Versionamento
+# Digital Course: Git/Versioning
 
-## Gravando mudanças no repositório
+## Writing changes to the repository
 
-### Novas modificações no Git.
+### New changes to Git
