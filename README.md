@@ -6,4 +6,5 @@
 
 - Save changes to the Git
 - Use the git restore command to restore changes
-- git push command to push
+- git push command to push to Github
+- git pull command to pull my computer
